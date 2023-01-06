@@ -1,0 +1,30 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1{fill:#95c0d1}.cls-3{fill:#bedde8}.cls-4{fill:#26344e}.cls-6{fill:#21234c}
+    </style>
+  </defs>
+  <rect id="Leaderboard" class="cls-1" x="48" y="144" width="176" height="32" rx="4"/>
+  <rect id="Wide_Skyscraper" data-name="Wide Skyscraper" x="240" y="128" width="64" height="176" rx="4" fill="#6e7b95"/>
+  <rect id="Medium_Rectangle" data-name="Medium Rectangle" class="cls-3" x="32" y="192" width="80" height="64" rx="4"/>
+  <rect id="Medium_Rectangle-2" data-name="Medium Rectangle" class="cls-1" x="240" y="320" width="80" height="48" rx="4"/>
+  <rect id="Medium_Rectangle-3" data-name="Medium Rectangle" class="cls-3" x="112" y="64" width="96" height="64" rx="4"/>
+  <rect id="Tall_Leaderboard" data-name="Tall Leaderboard" class="cls-1" x="320" y="128" width="128" height="48" rx="4"/>
+  <rect id="Small_Square" data-name="Small Square" class="cls-3" x="336" y="64" width="48" height="48" rx="4"/>
+  <rect id="Skyscraper" class="cls-4" x="64" y="272" width="48" height="144" rx="4"/>
+  <rect id="Half-Page" class="cls-3" x="128" y="400" width="128" height="80" rx="4"/>
+  <rect id="Leaderboard-2" data-name="Leaderboard" class="cls-3" x="272" y="384" width="176" height="32" rx="4"/>
+  <rect id="Medium_Rectangle-4" data-name="Medium Rectangle" class="cls-1" x="272" y="432" width="64" height="48" rx="4"/>
+  <rect id="Banner" class="cls-4" x="336" y="304" width="112" height="64" rx="4"/>
+  <g id="Video">
+    <rect x="320" y="192" width="160" height="96" rx="4" fill="#465671"/>
+    <path class="cls-3" d="M416 240l-24-13.86v27.72L416 240z"/>
+  </g>
+  <g id="Phone">
+    <rect class="cls-1" x="130.42" y="194.5" width="91" height="187" rx="7.36"/>
+    <path class="cls-6" d="M214.06 197a4.87 4.87 0 014.86 4.86v172.28a4.87 4.87 0 01-4.86 4.86h-76.28a4.87 4.87 0 01-4.86-4.86V201.86a4.87 4.87 0 014.86-4.86h76.28m0-5h-76.28a9.87 9.87 0 00-9.86 9.86v172.28a9.87 9.87 0 009.86 9.86h76.28a9.86 9.86 0 009.86-9.86V201.86a9.86 9.86 0 00-9.86-9.86z"/>
+    <path d="M156.73 199.42a1.61 1.61 0 01-1.6-1.61V195h41.59v2.83a1.61 1.61 0 01-1.61 1.61z" fill="#fff"/>
+    <path class="cls-6" d="M199.7 192h-47.56v5.81a4.59 4.59 0 004.59 4.59h38.38a4.59 4.59 0 004.59-4.59V192z"/>
+  </g>
+  <rect id="Rectangle_01" data-name="Rectangle 01" class="cls-4" x="224" y="32" width="96" height="80" rx="4"/>
+</svg>
